@@ -1,1 +1,5 @@
 First file
+git init
+git remote add origin ""
+git pull origin main
+git status
