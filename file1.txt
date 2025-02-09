@@ -3,3 +3,10 @@ git init
 git remote add origin ""
 git pull origin main
 git status
+
+In windows,
+
+go to .git folder
+delete git.lock file
+add, commit and push your code
+this worked for me
