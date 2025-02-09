@@ -16,3 +16,8 @@ git add -A
 git status
 git commit -a -m ""
 git log
+
+new brach
+git checkout firstbranch
+git add file4.txt
+ls
