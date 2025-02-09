@@ -10,3 +10,9 @@ go to .git folder
 delete git.lock file
 add, commit and push your code
 this worked for me
+
+
+git add -A
+git status
+git commit -a -m ""
+git log
