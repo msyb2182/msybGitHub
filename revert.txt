@@ -3,4 +3,8 @@ pushing to git
 Entering new line of code
 
 master merge
+<<<<<<< HEAD
 again
+=======
+added
+>>>>>>> d00269c235095474bf7fc08347a34db1584f13d0
