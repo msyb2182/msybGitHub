@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 revert
+=======
+revert
+pushing to git
+Entering new line of 
+adding a<F4>
+
+master merge
+added
+addeding again
+New person
+>>>>>>> 7a237e91828be997c0a44c2fa58adc5ec9b81014
